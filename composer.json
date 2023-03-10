@@ -1,0 +1,8 @@
+{
+    "require": {
+      "php": "^8.2",
+      "ext-json": "*",
+      "sendgrid/sendgrid": "^8.0",
+      "vlucas/phpdotenv": "^5.5"
+    }
+}

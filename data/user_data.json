@@ -1,0 +1,10 @@
+{
+  "contacts": [
+    {
+      "email": "annahamilton@example.org",
+      "first_name": "Anna",
+      "last_name": "Hamilton",
+      "country": "Canada"
+    }
+  ]
+}
